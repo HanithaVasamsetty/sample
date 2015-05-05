@@ -8,8 +8,6 @@ The app is a mobile version of [HRMS TechAspect](http://hrm.techaspect.com/). Ai
     * Reporting Manager
     * JOB designation
   
-  * Project Allocation
-  
   * Attendance and Leave 
     * Leave Summary
     * Leave Management
@@ -43,6 +41,11 @@ The app is a mobile version of [HRMS TechAspect](http://hrm.techaspect.com/). Ai
     * Leave Summary
  
   
+  * Apply Leave Module: Here the User can apply leave for required number of days as long as he has sufficient leave balance. This leave request will be updated to he server with the help of a POST request. In case of insufficient leave balance the request should not be entertained.
+    
+  * Leave History: Here the user gets to see the details of leaves previously taken by him/her 
+  
+  * Leave Summary: Here the details of leave balance is clearly listed 
   * 
   
   
