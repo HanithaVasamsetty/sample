@@ -29,6 +29,7 @@ This app is a mobile version of [HRMS TechAspect](http://hrm.techaspect.com/). A
   * Polymer JS 
   * HTML5, CSS3, JavaScript
   * PhoneGap
+  * Sharepoint
  
 ### App Modules
   
@@ -45,6 +46,10 @@ This app is a mobile version of [HRMS TechAspect](http://hrm.techaspect.com/). A
   * Leave History: Here the user gets to see the details of leaves previously taken by him/her 
   
   * Leave Summary: Here the details of leave balance is clearly listed 
+  
+ 
+ ### Client Platforms
+   Initially We choose to deploy the application on Android , ios and Windows platforms
   
   
   
