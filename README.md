@@ -38,9 +38,9 @@ The app is a mobile version of [HRMS TechAspect](http://hrm.techaspect.com/). Ai
   * Authentication Module: User is authenticated by sending a request to service . Authenticated users are redirected to     the Dashboard module of the app with respective privileges
   
   * Dashboard Module: This module provides the user a view of his profile and all the functionalities he is previliged to. for example only Manager should have privelege to approve leaves and this functionality will be hidden for an employee whose role isn't manager.
-    ** Apply Leave
-    ** Leave History
-    ** Leave Summary
+    * Apply Leave
+    * Leave History
+    * Leave Summary
  
   
   * 
