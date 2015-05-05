@@ -3,14 +3,13 @@
 This app is a mobile version of [HRMS TechAspect](http://hrm.techaspect.com/). Aimed to support features and functionalities like
 
   * Personal Details
-  
     * Skills
     * Reporting Manager
     * JOB designation
   
-  * Attendance and Leave 
-    * Leave Summary
-    * Leave Management
+  * Leave Management
+    * Apply Leave
+    * LeaveSummary
 
 ### Development Approach 
  We Use Hybrid app development approach owing to following advantages 
@@ -46,7 +45,7 @@ This app is a mobile version of [HRMS TechAspect](http://hrm.techaspect.com/). A
   * Leave History: Here the user gets to see the details of leaves previously taken by him/her 
   
   * Leave Summary: Here the details of leave balance is clearly listed 
-  * 
+  
   
   
  
