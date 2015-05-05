@@ -14,7 +14,7 @@ The app is a mobile version of [HRMS TechAspect](http://hrm.techaspect.com/). Ai
     * Leave Summary
     * Leave Management
 
-## Development Approach 
+### Development Approach 
  We Use Hybrid app development approach owing to following advantages 
   * Hybrid app ports to Multiple platforms: Can support multiple platforms although native container should be developed for each platform
   
@@ -22,10 +22,29 @@ The app is a mobile version of [HRMS TechAspect](http://hrm.techaspect.com/). Ai
   
   * Code Reuse: A hybrid app can leverage common server-side components as the same HTML content is exposed for each platform
   
-  * Functional Testing: Functionailty tested for one platform should work for all the platforms
+  * Functional Testing: Functionality tested for one platform should work for all the platforms
   
   * Existing Server side Components: We can utilise existing server side resources which are designed for Web Application
   
   * Enhancements: Rolling out new features is easier as no client app distribution is required
-
+  
+### Technology Used
+  * Polymer JS 
+  * HTML5, CSS3, JavaScript
+  * PhoneGap
+ 
+### App Modules
+  
+  * Authentication Module: User is authenticated by sending a request to service . Authenticated users are redirected to     the Dashboard module of the app with respective privileges
+  
+  * Dashboard Module: This module provides the user a view of his profile and all the functionalities he is previliged to. for example only Manager should have privelege to approve leaves and this functionality will be hidden for an employee whose role isn't manager.
+    ** Apply Leave
+    ** Leave History
+    ** Leave Summary
+ 
+  
+  * 
+  
+  
+ 
 
