@@ -1,4 +1,4 @@
-                                            # HRMS APP
+# HRMS APP
 
 The app is a mobile version of [HRMS TechAspect](http://hrm.techaspect.com/). Aimed to support features and functionalities like
 
